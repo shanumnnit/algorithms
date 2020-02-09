@@ -9,6 +9,7 @@ public class Test {
         result.forEach(x -> {
             x.forEach(System.out::println);
             System.out.println();
+            System.out.println();
         });
     }
 
